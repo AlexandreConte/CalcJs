@@ -1,4 +1,4 @@
-<h1>Caculadora Javascript</h1>
+<h1 align="center">Caculadora Javascript</h1>
 
 <h2>Descrição</h2>
 <p>Calculadora de operações básicas desenvolvida para web</p>
